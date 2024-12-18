@@ -14,5 +14,9 @@
         <li>dua</li>
         <li>lima</li>
         <li>tujuh</li>
+        <li>sembilan</li>
+        <li>delapan</li>
+        <li>enam</li>
+        <li>tiga</li>
 </body>
 </html>
